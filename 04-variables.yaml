@@ -1,5 +1,5 @@
 - name: variables
-  host: localhost
+  hosts: localhost
   vars: # variables declaration
     course: "Ansible"
     trainer: "Siva Kumar Reddy"
